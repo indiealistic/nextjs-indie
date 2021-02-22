@@ -70,14 +70,10 @@ If you're already a pro, this is the base-template for you. It's incredibly easy
 3. Install dependencies and run dev server:
 
 ```bash
-npm install
-# or
-yarn install
+pnpm install
 
 # then
-npm run dev
-# or
-yarn dev
+pnpm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
